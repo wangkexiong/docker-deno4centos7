@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/github/license/wangkexiong/docker-deno4centos7)
 ![1.5.4](https://img.shields.io/docker/v/wangkexiong/deno4centos7/1.5.4?style=social)
 ![1.6.1](https://img.shields.io/docker/v/wangkexiong/deno4centos7/1.6.1?style=social)
+![1.6.3](https://img.shields.io/docker/v/wangkexiong/deno4centos7/1.6.3?style=social)
 
 ## WHY?
 [Deno project on github][] gives binary releases, but it depends on GLIBC_2.18.
